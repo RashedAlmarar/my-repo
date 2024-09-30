@@ -1,0 +1,69 @@
+Xsession: X session started for kali at Mon Sep 30 10:39:48 AM EDT 2024
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/home/kali/.Xauthority
+localuser:kali being added to access control list
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/xfce4:/usr/local/share/:/usr/share/
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting POWERSHELL_TELEMETRY_OPTOUT=1
+dbus-update-activation-environment: setting USER=kali
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting DOTNET_CLI_TELEMETRY_OPTOUT=1
+dbus-update-activation-environment: setting HOME=/home/kali
+dbus-update-activation-environment: setting DESKTOP_SESSION=lightdm-xsession
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting COMMAND_NOT_FOUND_INSTALL_PROMPT=1
+dbus-update-activation-environment: setting QT_QPA_PLATFORMTHEME=qt5ct
+dbus-update-activation-environment: setting LOGNAME=kali
+dbus-update-activation-environment: setting QT_AUTO_SCREEN_SCALE_FACTOR=0
+dbus-update-activation-environment: setting XDG_SESSION_CLASS=user
+dbus-update-activation-environment: setting PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/local/games:/usr/games
+dbus-update-activation-environment: setting _JAVA_OPTIONS=-Dawt.useSystemAAFontSettings=on -Dswing.aatext=true
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1000
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting LANG=en_US.UTF-8
+dbus-update-activation-environment: setting POWERSHELL_UPDATECHECK=Off
+dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=lightdm-xsession
+dbus-update-activation-environment: setting XAUTHORITY=/home/kali/.Xauthority
+dbus-update-activation-environment: setting XDG_GREETER_DATA_DIR=/var/lib/lightdm/data/kali
+dbus-update-activation-environment: setting SHELL=/usr/bin/zsh
+dbus-update-activation-environment: setting GDMSESSION=lightdm-xsession
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting PWD=/home/kali
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/xfce4:/usr/local/share/:/usr/share/
+/usr/bin/x-session-manager: X server already running on display :0
+/usr/bin/iceauth:  creating new authority file /run/user/1000/ICEauthority
+xfce4-session-Message: 10:39:48.678: SSH authentication agent is already running
+gpg-agent: a gpg-agent is already running - not starting a new one
+MESA: error: ZINK: failed to choose pdev
+glx: failed to create drisw screen
+
+(xfwm4:1401): xfwm4-WARNING **: 10:39:49.185: Unsupported GL renderer (llvmpipe (LLVM 17.0.6, 256 bits)).
+Xfce power manager is not running
+Failure: No such entity
+Xfce Power Manager: Another power manager is already running
+Cannot register authentication agent: GDBus.Error:org.freedesktop.PolicyKit1.Error.Failed: An authentication agent already exists for the given subject
+MESA: error: ZINK: failed to choose pdev
+glx: failed to create drisw screen
+
+(vmware-user:1562): Gtk-WARNING **: 10:39:52.133: gtk_disable_setlocale() must be called before gtk_init()
+
+** (xiccd:1541): WARNING **: 10:39:52.138: EDID is empty
+MESA: error: ZINK: failed to choose pdev
+glx: failed to create drisw screen
+blueman-applet 10.39.56 WARNING  PluginManager:150 __load_plugin: Not loading PPPSupport because its conflict has higher priority
+blueman-applet 10.39.56 WARNING  PluginManager:150 __load_plugin: Not loading DhcpClient because its conflict has higher priority
+blueman-applet 10.39.56 WARNING  DiscvManager:122 update_menuitems: warning: Adapter is None
+
+** (xiccd:1541): WARNING **: 10:41:31.897: EDID is empty
+
+** (xiccd:1541): WARNING **: 10:41:31.904: EDID is empty
+
+** (xiccd:1541): WARNING **: 10:41:33.690: EDID is empty
+
+** (xiccd:1541): WARNING **: 10:41:33.702: EDID is empty
+
+** (xiccd:1541): WARNING **: 10:42:51.791: EDID is empty
+
+** (xiccd:1541): WARNING **: 10:42:51.806: EDID is empty
